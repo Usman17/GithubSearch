@@ -20,7 +20,7 @@ This screen will display the results fetched from GitHub as a result of search m
 
 This screen will be displayed when there are no results fetched from GitHub as a result of search made by user. There is a 'Go Back' button on screen which can be used to go back to 'Main Screen'.
 
-## Importatnt Notes
+## Important Notes
 * This App is built using 'create-react-native-app' package.
 * I have not included 'node_modules' directory in Git, do create it by running command 'yarn install' or 'npm install' from inside the main directory.
 * Main codebase is available in App.js.
